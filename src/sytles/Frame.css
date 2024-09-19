@@ -1,0 +1,57 @@
+
+  .section {
+    display: block;
+    /* or */
+    /* .container {
+      display: flex;
+    }
+    .section {
+      display: block;
+    } */
+    /* depending on the desired layout */
+  }
+
+  .alt{
+    color: #8d53a8;
+    text-decoration: underline;
+  
+  }
+
+  .AC {
+    position: static;
+    top: 0;
+    left: 0;
+    background-color: #c2c7c7;
+    height: 700px;
+    width: 100%;
+    z-index: -1;
+    margin-top: -100px;
+  }
+  
+  .ACT {
+    margin: 100px;
+    padding: 120px 100px 0 100px; /* combined padding properties */
+    margin-left: 25%;
+  }
+  
+  .AD {
+    width: 70%;
+    padding-left: 5%;
+  }
+  
+  .AD1 {
+    height: 175px;
+  }
+  
+  .AD2 {
+    height: 125px;
+  }
+  
+  .AD3 {
+    height: 50px;
+  }
+  
+  .AD1T {
+    padding-left: 10px;
+  }
+

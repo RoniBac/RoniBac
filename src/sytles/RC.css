@@ -1,0 +1,79 @@
+button{
+  margin-left: 3%;
+  width: 45%;
+}
+
+.RM{
+  width: 100%;
+  height: 100%;
+  display:inline-block;
+  justify-content: center;
+  align-items:center;
+  display: flex;
+}
+
+.REC{
+  width: 50%;
+  height: 100%;
+}
+
+.RTC{
+  width: 50%;
+  height: 100%;
+}
+
+.R1{
+  margin: 10%;
+  width: 300px;
+  height: 125px;
+}
+
+.R2{
+  margin: 10%;
+  width: 300px;
+  height: 125px;
+  
+}
+
+.R3{
+  margin: 10%;
+  width: 300px;
+  height: 125px;
+  
+}
+
+.Rhe{
+  width: 100%;
+  height: 25%;
+  display: flex;
+}
+
+.Rp{
+  margin-left: 5%;
+}
+.Rt{
+  margin-left: 30%;
+}
+
+.RC{
+  position: static;
+  top: 0;
+  left: 0;
+  background-color: #c7c7c7;
+  height: 30%;
+  width: 100%;
+  z-index: -1;
+  margin-top: -100px;
+}
+.RCT{
+  margin: 100px;
+  padding-top: 60px;
+  padding-left: 100px;
+  margin-left: 25%;
+  
+}
+
+.RCTT{
+  height: 500px;
+  width: 800px;
+}

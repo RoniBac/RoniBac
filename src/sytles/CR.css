@@ -1,0 +1,54 @@
+.CC{
+    position: static;
+    top: 0;
+    left: 0;
+    background-color: #f0f0f0;
+    height: 30%;
+    width: 100%;
+    z-index: -1;
+    margin-top: -100px;
+    margin-bottom: -100px;
+  }
+  .CCT{
+    margin: 100px;
+    padding-top: 125px;
+    padding-left: 100px;
+    margin-left: 25%;
+    
+  }
+  
+  .CMC{
+    height: 400px;
+    width: 800px;
+  }
+  
+  .CCON{
+    height: 100%;
+    width: 100%;
+  }
+  
+  .C1{
+    padding: 2%;
+    height: 40%;
+    width: 80%;
+  }
+  .C2{
+    padding: 2%;
+    height: 40%;
+    width: 90%;
+  }
+  
+  #Nom{
+    width: 40%;
+    height: 25px;
+  }
+  #email{
+    margin-left: 1%;
+    width: 55%;
+    height: 25px;
+  }
+  #mens{
+    margin-top: 1%;
+    width: 97%;
+    height: 150px;
+  }

@@ -1,0 +1,38 @@
+.NAV {
+    height: 5rem; 
+    background-color: #202020;
+    border-bottom: 2px solid #101010;
+    color: #f0f0f0;
+    display: flex;
+    justify-content: end;
+    align-items: end; /* changed from 'end' to 'center' */
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+  }
+  
+  .NAV a {
+    color: inherit; /* removed redundant color declaration */
+    text-decoration: none;
+  }
+  
+  .navegador ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
+  .navegador li {
+    display: inline-block;
+  }
+  
+  .navegador a {
+    display: block;
+    padding: 0.5rem 1rem;
+  }
+  
+  .navegador a:hover {
+    background-color: #8d53a8;
+  }
+  
